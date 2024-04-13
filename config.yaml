@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    testuser:
+      email: test@test.de
+      name: Test User
+      password: $2b$12$57umivtQiuyzITzC40DK9uCf2dEBuLgMjjEmSK8RGj7Q.xlWFbG/W
+cookie:
+  expiry_days: 30
+  key: 9295009237990ff2993200aa03003009
+  name: streamlit_WebAiAssistantCookie
+preauthorized:
+  emails:
+  - admin@test.de
