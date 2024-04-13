@@ -6,6 +6,11 @@ The website is protected by an authentication component that includes an additio
 New usernames and passwords can be added to the config.yaml file. <br>
 The python script interfaces a local Ollama model that runs in a virtualized linux envrionment on a Windows host. <br>
 To install the Windows linux virtualization environment and the Ollama model please refer to the following steps: <br>
+![IMG_4148](https://github.com/BierschneiderEmanuel/WebAiAssistant/assets/77926785/892be6c6-04fb-4c45-9ee9-695db111fa91)
+![IMG_4149](https://github.com/BierschneiderEmanuel/WebAiAssistant/assets/77926785/19750948-400f-4e2b-b2d6-93a78d1c9261)
+![IMG_4147](https://github.com/BierschneiderEmanuel/WebAiAssistant/assets/77926785/351e4e53-15e5-453e-895a-9e94b5b52f26)
+![IMG_4150](https://github.com/BierschneiderEmanuel/WebAiAssistant/assets/77926785/24435235-b58b-4d3a-b08f-7139e690c403)
+
 Win-R <br>
 cmd <br>
 wsl.exe --install <br>
