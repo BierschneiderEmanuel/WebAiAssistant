@@ -1,10 +1,11 @@
 # WebAiAssistant
 
-WebAiAssistant composed of an Ollama OpenHermes Mistral 7B LLM and a Streamlit web frontend.
-The website is protected by an authentication component that includes an additional protection timeout of 5 seconds in case the user enters an incorrect password.
-
-The python script interfaces a local Ollama model that runs in a virtualized linux envrionment on a Windows host.
-To install the Windows linux virtualization environment and the Ollama model please refer to the following steps:
+WebAiAssistant is an AI assistant that is composed of an Ollama OpenHermes Mistral 7B LLM and a Streamlit web frontend. <br>
+One could easily deploy this website to a cloud endpoint using the Streamlit's cloud deployment functionality. <br>
+The website is protected by an authentication component that includes an additional protection timeout of 5 seconds in case the user enters an incorrect password. <br>
+New usernames and passwords can be added to the config.yaml file. <br>
+The python script interfaces a local Ollama model that runs in a virtualized linux envrionment on a Windows host. <br>
+To install the Windows linux virtualization environment and the Ollama model please refer to the following steps: <br>
 Win-R <br>
 cmd <br>
 wsl.exe --install <br>
