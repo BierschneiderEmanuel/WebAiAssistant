@@ -28,6 +28,6 @@ To start the website, run streamlit: <br>
 Win-R <br>
 cmd <br>
 streamlit run WebAiAssistant.py <br>
-Login @ http://localhost::8501 <br>
+Login @ http://localhost:8501 <br>
 username: testuser <br>
 password: test <br>
